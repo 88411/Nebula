@@ -1,6 +1,6 @@
 type: web
     
-    repo: https://github.com/NebulaServices/Nebula.git
+    repo: https://github.com/88411/Nebula/
     region: oregon
     plan: free
     branch: main
