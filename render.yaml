@@ -1,6 +1,5 @@
 type: web
     
-    env: docker
     repo: https://github.com/NebulaServices/Nebula.git
     region: oregon
     plan: free
